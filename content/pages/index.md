@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Welcome To Vanish Toolz!
-    subtitle: ''
+    subtitle: Please Scroll Down To Download Our Toolz!
     styles:
       self:
         height: auto
