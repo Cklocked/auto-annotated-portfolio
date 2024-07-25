@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Welcome To Vanish Toolz
-    subtitle: Welcome To Vanish Toolz
+    subtitle: ''
     styles:
       self:
         height: auto
