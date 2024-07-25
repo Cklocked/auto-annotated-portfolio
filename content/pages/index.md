@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Welcome To Vanish Toolz
+    title: Welcome To Vanish Toolz!
     subtitle: ''
     styles:
       self:
